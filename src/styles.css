@@ -1,0 +1,91 @@
+
+
+.mg-32px{
+    margin: 32px;
+}
+
+.logo-pos{
+    padding-top: 112px;
+}
+
+.card-login{
+    padding: 12px;
+    width: 560px;
+    height: auto;
+    left: 448px;
+    top: 424px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 30px rgba(199, 199, 199, 0.55);
+    border-radius: 6px;
+}
+
+.card-usuario{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 30px rgba(199, 199, 199, 0.55);
+    border-radius: 6px;
+}
+
+.text-panel{
+    width: 71px;
+    height: 32px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 132%;
+    align-items: center;
+    color: #333333;
+}
+
+.text-card-link{    
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    align-items: center;
+    letter-spacing: 0.25px;
+    color: #333333;
+}
+
+.btn-login{
+    width: 366px;
+    height: 48px;
+    background: #007AFF;
+    border-radius: 4px;
+}
+
+.btn-signup{
+    height: 64px;
+    width: 168px;
+    border: 2px solid #007AFF;
+    box-sizing: border-box;
+    border-radius: 4px;
+    color: #007AFF;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 17px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.75px
+
+}
+
+.btn-signup:hover{
+    color: #FFFFFF;
+    background-color:#007AFF;
+}
+
+.btn-form{
+    color: #FFFFFF;
+    background-color:#007AFF;
+}
+
+.form-control{
+    height: 64px;
+}
+
+.img-circle{
+    left: 144px;
+    top: 264px;
+    border-radius: 60px;
+}
